@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ryan Tran (@ryant269)
-- 🌱 I’m currently learning Computer Engineering at SDSU
+- 🌱 I’m currently studying Computer Engineering at SDSU
 - 👀 I’m interested in Robotics, Rockets, and any related fields!
 - 💞️ I’m happy to collaborate on anything stated above
 - 📫 How to reach me? Email: ryantran269@gmail.com 
